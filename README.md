@@ -38,11 +38,3 @@ The current priorities and system logs for projects in development.
 | **Public Website** | Web Design | Reusable, minimalist public website. | Designing. |
 
 ---
-
-### ⚙️ System Log
-
-| Status | Log Entry |
-| :--- | :--- |
-| **Current Task** | Determining the required Python libraries for the Discord Bot framework. |
-| **Current Vibe** | Finding optimal flow states while reviewing anime production design. |
-| **Next Step** | Finalizing the visual design for the Velocity UI Kit landing page. |
